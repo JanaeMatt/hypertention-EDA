@@ -79,8 +79,7 @@ The Northeast and West show lower baseline rates.
 Regional differences persist after adjusting for behavioral risk factors, indicating structural and healthcare access contributors.
 Why this matters: Even before accounting for preventive care timing or insurance status, regional disparities justify geographic stratification in subsequent modeling.
                                                                                                                                                      
-Core Analytical Findings
-Preventive Healthcare Access and Hypertension: Main Association
+## Core Analytical Findings - Preventive Healthcare Access and Hypertension: Main Association
 
 
 Limited Preventive Care Access Is Associated With Higher Hypertension Odds — But Effect Magnitude Depends on Who Is Uninsured
