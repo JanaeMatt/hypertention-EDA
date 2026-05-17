@@ -81,6 +81,8 @@ Why this matters: Even before accounting for preventive care timing or insurance
                                                                                                                                                      
 ## Core Analytical Findings - Preventive Healthcare Access and Hypertension: Main Association
 
+<img width="541" height="506" alt="image" src="https://github.com/user-attachments/assets/b820dc4b-bc71-4bf2-9a3a-b87580a745fc" />
+
 
 Limited Preventive Care Access Is Associated With Higher Hypertension Odds — But Effect Magnitude Depends on Who Is Uninsured
 In unadjusted comparisons, counties with lower preventive care access show higher hypertension prevalence across all regions. However, the magnitude of this association is not consistent across insurance environments. A one percentage point increase in the county-level checkup rate was associated with a 1.158 percentage point decrease in hypertension prevalence (95% CI: −1.170 to −1.146; p < 0.001), holding the uninsured rate and all control variables constant.  
