@@ -17,7 +17,7 @@ Insights and recommendations are organized around the following areas:
  - Geographic and socioeconomic context
  - Policy implications and next steps
 
-   ...
+  
    
 # Executive Summary
 
