@@ -48,21 +48,14 @@ This structure reflects a standard epidemiological risk factor–outcome framewo
 <img width="700" height="556" alt="image" src="https://github.com/user-attachments/assets/9ac84812-aa31-4028-842b-d6fe9401de57" />
 
 
-# Epidemiological Framework
-The conceptual model underlying this analysis treats preventive care access as an upstream determinant of hypertension through two mechanisms:
-
-Delayed Diagnosis Pathway — Limited preventive care reduces routine blood pressure screening, allowing hypertension to go undetected and unmanaged longer.
-
-Care Continuity Pathway — Without regular provider contact, patients are less likely to receive medication titration, lifestyle counseling, and disease monitoring.
-
-Insurance status modifies both pathways by influencing affordability, continuity of care, and the practical ability to act on a diagnosis even when one is made.
 
 # Statistical Approach
-Multivariable logistic regression
+A multivariable regression model was used to estimate the association between preventive care access and hypertension prevalence.
 
-Interaction term: Preventive Access × Insurance Status
+An interaction term between preventive care access and insurance status was included to assess whether the relationship differs across insurance environments.
 
-Confounders adjusted for: provider availability, socioeconomic conditions, behavioral risk environment.
+Models adjust for provider availability, socioeconomic conditions, and behavioral risk factors.
+
 
 # **Baseline Context Before Accounting for Insurance Status**
 
