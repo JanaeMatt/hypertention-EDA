@@ -7,7 +7,7 @@ As part of a public health analytics initiative, this analysis evaluates whether
 Hypertension remains one of the leading preventable risk factors for cardiovascular disease in the United States. Despite decades of public health investment, disparities in hypertension prevalence persist across socioeconomic and geographic groups, suggesting that individual-level interventions alone are insufficient.
 
 
-Preventive care — including routine screening, early diagnosis, and ongoing management — is widely recognized as a protective factor against the progression of chronic disease. However, access to preventive services varies widely depending on insurance coverage, provider availability, education level, and regional infrastructure. Many analyses focus on average population-level effects, which can obscure how differently these exposures affect subgroups.
+Preventive care - including routine screening, early diagnosis, and ongoing management is widely recognized as a protective factor against the progression of chronic disease. However, access to preventive services varies widely depending on insurance coverage, provider availability, education level, and regional infrastructure. Many analyses focus on average population-level effects, which can obscure how differently these exposures affect subgroups.
 This analysis examines whether limited access to preventive healthcare is associated with higher odds of hypertension and — more critically — whether insurance status modifies that relationship. The goal is to give public health stakeholders, Medicaid policy analysts, and healthcare systems a clearer picture of where targeted interventions can have the greatest impact.
 
 Insights and recommendations are organized around the following areas:
@@ -21,9 +21,10 @@ Insights and recommendations are organized around the following areas:
    
 # Executive Summary
 
-Limited access to preventive healthcare is associated with higher hypertension prevalence—but this relationship is not uniform across populations.
+Limited access to preventive healthcare is associated with higher hypertension prevalence but this relationship is not uniform across populations.
 
 This analysis finds that insurance status significantly amplifies risk: counties with both low preventive care access and high uninsured rates consistently exhibit the highest hypertension burden.
+
 While increasing routine checkups is associated with lower hypertension overall, access alone does not guarantee improved outcomes. The ability to act on that access—largely determined by insurance coverage—drives whether preventive care translates into meaningful risk reduction.
 
 Key Insight:
