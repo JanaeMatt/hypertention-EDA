@@ -56,6 +56,7 @@ An interaction term between preventive care access and insurance status was incl
 
 Models adjust for provider availability, socioeconomic conditions, and behavioral risk factors.
 
+Preventive care access is modeled as an upstream determinant of hypertension through delayed diagnosis and reduced care continuity, with insurance status influencing the ability to act on available care.
 
 # **Baseline Context Before Accounting for Insurance Status**
 
