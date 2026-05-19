@@ -45,7 +45,7 @@ The dataset used is a CDC county-level dataset on chronic disease indicators and
   
 This structure reflects a standard epidemiological risk factor–outcome framework with effect modification, commonly applied in chronic disease surveillance and health services research. The county-level, ecological design enables cross-regional comparison but introduces ecological fallacy limitations addressed in the Next Steps section.
 
-<img width="600" height="556" alt="image" src="https://github.com/user-attachments/assets/9ac84812-aa31-4028-842b-d6fe9401de57" />
+<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/9ac84812-aa31-4028-842b-d6fe9401de57" />
 
 
 
@@ -69,7 +69,8 @@ Interpretation: Preventive care access contributes to hypertension risk, but doe
 
 # Effect Modification by Insurance Status
 
-<img width="541" height="506" alt="image" src="https://github.com/user-attachments/assets/b820dc4b-bc71-4bf2-9a3a-b87580a745fc" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5a147a6b-7104-4078-bc13-e40e53a0b5d9" />
+
 
 Insurance Status Significantly Modifies the Relationship Between Preventive Care Access and Hypertension
 
@@ -111,24 +112,27 @@ Low uninsured rate + adequate preventive access: Weakest association (reference 
 Key Insight: Insurance status functions as a structural amplifier. Improving preventive care access without addressing insurance gaps will yield diminished returns in the highest-risk counties.
 
 # Structural and Behavioral Risk Drivers
-Socioeconomic Disadvantage and Behavioral Environment Independently Amplify Hypertension Risk
+
+- Socioeconomic Disadvantage and Behavioral Environment Independently Amplify Hypertension Risk
 Beyond the primary exposure and effect modifier, additional structural variables contributed meaningfully to the model:
 
-Obesity and physical inactivity — Both are independently associated with higher hypertension prevalence across all county types. These behavioral exposures partially mediate the relationship between socioeconomic disadvantage and hypertension.
+- Obesity and physical inactivity — Both are independently associated with higher hypertension prevalence across all county types. These behavioral exposures partially mediate the relationship between socioeconomic disadvantage and hypertension.
 
-Primary care physician availability — Lower provider density is associated with reduced preventive care utilization, creating a downstream pathway to higher hypertension rates. This variable partially confounds and partially mediates the primary exposure.
+- Primary care physician availability — Lower provider density is associated with reduced preventive care utilization, creating a downstream pathway to higher hypertension rates. This variable partially confounds and partially mediates the primary exposure.
 
-Socioeconomic conditions — Counties with higher poverty proxies and lower educational attainment show elevated hypertension prevalence, even after adjusting for behavioral factors, suggesting structural pathways operating independently of individual health behaviors.
+- Socioeconomic conditions — Counties with higher poverty proxies and lower educational attainment show elevated hypertension prevalence, even after adjusting for behavioral factors, suggesting structural pathways operating independently of individual health behaviors.
 
-Smoking — Independently associated with cardiovascular risk, and clustered geographically in high-uninsured, low-access counties, contributing to confounding.
+- Smoking - Independently associated with cardiovascular risk, and clustered geographically in high-uninsured, low-access counties, contributing to confounding.
 
-Key Insight: Hypertension disparities are driven by a convergence of structural exposures — not individual behavior alone. This has direct implications for intervention design.
+Key Insight: Hypertension disparities are driven by a convergence of structural exposures not individual behavior alone. This has direct implications for intervention design.
 Geographic Context
 
   
 ## Regional healthcare context:
 
-The South and Midwest pattern likely reflects compounding structural conditions: rural hospital closures, maternity and primary care deserts, and lower Medicaid expansion uptake in some states have reduced both preventive care infrastructure and insurance coverage simultaneously — creating precisely the high-risk environment identified by the interaction term.
+<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/4f1c3625-741a-4a26-b8ab-6db7b2519a08" />
+
+The South and Midwest pattern likely reflects compounding structural conditions: rural hospital closures, maternity and primary care deserts, and lower Medicaid expansion uptake in some states have reduced both preventive care infrastructure and insurance coverage simultaneously creating precisely the high-risk environment identified by the interaction term.
 
 These findings suggest that the geographic healthcare policy environment shapes how preventive care access translates into population-level outcomes, not just individual-level exposure.
 
